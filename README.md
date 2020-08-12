@@ -5,6 +5,7 @@ Made use of OpenCV, Keras, TensorFlow and a few other libraries in Python.
 Faces detected using Haar cascade classifier
 Read more about it here: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 
+Works best when face is clearly distinguishable.
 
 ## Inspired By
 [Sentdex](https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/) \
